@@ -4,28 +4,15 @@ A project which manage Role, Permissions and every actions of your Laravel appli
 
 **Demo:** http://localhost:8000
 ```
-Username - superadmin
+Username - superadmin@example.com
 password - 12345678
 ```
 
 ## Requirements:
-- Laravel `7.x` | `9.7` | `11.x` | `12.x`
+- Laravel  `10.x`
 - Spatie role permission package  `^6.4`
 - PHPUnit test package `^11.x`
 
-## Versions:
-- Laravel `7.x` & PHP -`7.x`
-    - Tag - https://github.com/ManiruzzamanAkash/laravel-role/releases/tag/Laravel7.x
-    - Branch - https://github.com/ManiruzzamanAkash/laravel-role/tree/Laravel7.x
-
-- Laravel `9.7` & PHP - `8.x`
-    - Tag - https://github.com/ManiruzzamanAkash/laravel-role/releases/tag/Laravel9.x
-
-- Laravel `11.x`
-    - Tag - https://github.com/ManiruzzamanAkash/laravel-role/releases/tag/v11.x-main
-
-- Laravel `12.x` & PHP >= `8.3`
-    - Tag - https://github.com/ManiruzzamanAkash/laravel-role/releases/tag/Laravel12.x
 
 ## Project Setup
 Git clone -
@@ -68,7 +55,7 @@ So, You've got the project of Laravel Role & Permission Management on your http:
 
 ## How it works
 1. Login using Super Admin Credential -
-    1. Username - `superadmin`
+    1. Username - `superadmin@example.com`
     1. Password - `12345678`
 2. Create Admin
 3. Create Role
