@@ -16,9 +16,6 @@ password - 12345678
 
 ## Project Setup
 Git clone -
-```console
-git clone https://github.com/ManiruzzamanAkash/laravel-role.git
-```
 
 Go to project folder -
 ```console
@@ -49,7 +46,7 @@ Run Project -
 php artisan serve
 ```
 
-Since, there is any problem to seeder, Please import the .sql file directly - https://github.com/ManiruzzamanAkash/laravel-role/blob/master/database/sql/laravel_role.sql
+Since, there is any problem to seeder, Please import the .sql file directly - https://github.com/AlAOI7/laravel-role/blob/master/database/sql/laravel_role.sql
 
 So, You've got the project of Laravel Role & Permission Management on your http://localhost:8000
 
@@ -64,34 +61,7 @@ So, You've got the project of Laravel Role & Permission Management on your http:
 6. Check by login with the new credentials.
 7. If you've not enough permission to do any task, you'll get a warning message.
 
-## Learn More & Discussion
-https://devsenv.com/tutorials/laravel-role-permission-management-system-full-example-with-source-code
 
-
-
-### Login & Dashboard Page
-![alt text][adminLoginImage]
-![alt text][dashboardImage]
-
-### Role Pages
-Role List
-![alt text][roleListImage]
-Role Create
-![alt text][roleCreateImage]
-Role Edit
-![alt text][roleEditImage]
-
-### Admin Pages
-Admin List
-![alt text][adminListImage]
-Admin Create
-![alt text][adminCreateImage]
-
-### Other Pages
-Custom Error Pages
-![alt text][errorPageImage]
-Dynamic Sidebar Manage
-![alt text][sidebarDyanamic]
 
 
 
@@ -106,14 +76,12 @@ Dynamic Sidebar Manage
 [sidebarDyanamic]: https://i.ibb.co/Jpq6X8x/9-Sidebar-Manage-Dynamically.png "9-Sidebar-Manage-Dynamically"
 
 ## Wanna talk with me
-Please mail me at - manirujjamanakash@gmail.com
+Please mail me at - alaoi77alosh@gmail.com
 
 
 ## Support
 If you like my work you may consider buying me a ☕ / 🍕
 
-<a href="https://www.patreon.com/maniruzzaman" target="_blank" title="Buy Me A Coffee"> <img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="ManiruzzamanAkash" width="200" />
- </a>
 
 ## Contribution
 Contribution is open. Create Pull-request and I'll add it to the project if it's good enough.
