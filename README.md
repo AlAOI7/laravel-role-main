@@ -79,9 +79,3 @@ So, You've got the project of Laravel Role & Permission Management on your http:
 Please mail me at - alaoi77alosh@gmail.com
 
 
-## Support
-If you like my work you may consider buying me a ☕ / 🍕
-
-
-## Contribution
-Contribution is open. Create Pull-request and I'll add it to the project if it's good enough.
